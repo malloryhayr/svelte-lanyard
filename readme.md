@@ -1,6 +1,6 @@
 # svelte-lanyard
 
-A Lanyard API wrapper for Svelte
+A [Lanyard](https://github.com/Phineas/lanyard) API wrapper for [Svelte](https://svelte.dev)
 
 ### How to Use
 
