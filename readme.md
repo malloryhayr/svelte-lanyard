@@ -2,7 +2,7 @@
 
 A [Lanyard](https://github.com/Phineas/lanyard) API wrapper for [Svelte](https://svelte.dev)
 
-### How to Use
+## How to Use
 
 Currently, svelte-lanyard only works clientside, meaning SvelteKit SSR will not work.
 Learn how to disable SSR on a page-by-page basis [here](https://kit.svelte.dev/docs#ssr-and-javascript-ssr).
