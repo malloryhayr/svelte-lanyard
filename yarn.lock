@@ -2238,10 +2238,18 @@ __metadata:
     eslint-config-xo: ^0.39.0
     eslint-config-xo-typescript: ^0.45.2
     prettier: ^2.4.1
+    svelte: ^3.44.2
     tsup: ^5.5.0
     typescript: ^4.4.4
   languageName: unknown
   linkType: soft
+
+"svelte@npm:^3.44.2":
+  version: 3.44.2
+  resolution: "svelte@npm:3.44.2"
+  checksum: 912b186e113bbcc58442066be43a9c9d2ada43945eacfb90733c7454e6c5286014f66ced4222f8040e0c930289a47c83b4cda10226e2805479f8bfba9076812a
+  languageName: node
+  linkType: hard
 
 "tar@npm:^6.0.2, tar@npm:^6.1.2":
   version: 6.1.11
