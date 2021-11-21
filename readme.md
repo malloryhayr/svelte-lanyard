@@ -38,3 +38,5 @@ If you are building your website for browsers that don't support WebSockets or w
 	<p>Waiting to fetch Discord data...</p>
 {/if}
 ```
+
+A demo is also available [here](https://codesandbox.io/s/svelte-lanyard-demo-ez7qr?file=/App.svelte).
