@@ -1,7 +1,7 @@
 {
 	"name": "svelte-lanyard",
 	"description": "🏷️ A Lanyard API wrapper for Svelte",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"types": "./dist/index.d.ts",
 	"main": "./dist/index.js",
 	"module": "./dist/index.mjs",
@@ -36,8 +36,10 @@
 		"package.json"
 	],
 	"keywords": [
-		"node",
-		"template"
+		"typescript",
+		"svelte",
+		"lanyard",
+		"discord"
 	],
 	"packageManager": "yarn@3.1.0"
 }
