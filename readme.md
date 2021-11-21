@@ -29,7 +29,7 @@ If you are building your website for browsers that don't support WebSockets or w
 <script lang="ts">
 	import { useLanyard } from 'svelte-lanyard';
 
-	const data = useLanyard('182292736790102017', { type: 'rest', interval: 1e3 });
+	const data = useLanyard('182292736790102017', { type: 'rest', restInterval: 1e3 });
 </script>
 
 {#if $data}
